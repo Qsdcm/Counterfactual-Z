@@ -42,3 +42,16 @@ classifier/results/logs/events.out.tfevents.1765197599.amax.1670491.0
 classifier/results/logs/events.out.tfevents.1765207943.amax.1793651.0
 utils.py
 utils2.py
+Second_encoder/__pycache__/model_paired.cpython-310.pyc
+Second_encoder/paired_results/checkpoints/best_paired_model.pth
+Second_encoder/paired_results/logs/events.out.tfevents.1765364677.amax.3118572.0
+Second_encoder/paired_results/test_visualization/test_sample_0.png
+Second_encoder/paired_results/test_visualization/test_sample_1.png
+Second_encoder/paired_results/test_visualization/test_sample_2.png
+Second_encoder/paired_results/test_visualization/test_sample_3.png
+Second_encoder/paired_results/test_visualization/test_sample_4.png
+Second_encoder/paired_results/test_visualization/test_sample_5.png
+Second_encoder/paired_results/test_visualization/test_sample_6.png
+Second_encoder/paired_results/test_visualization/test_sample_7.png
+Second_encoder/paired_results/test_visualization/test_sample_8.png
+Second_encoder/paired_results/test_visualization/test_sample_9.png
